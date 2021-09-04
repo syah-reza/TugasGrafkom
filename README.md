@@ -1,0 +1,2 @@
+# TugasGrafkom
+Mencoba GIT
